@@ -4,7 +4,7 @@
 
 {This Program prints out a custom Hello world to the user after them inputing their name details.}
 
-{I ma improving my skills with the C# programming langauge}
+{I am improving my skills with the C# programming langauge}
 
 
 [Software Demo Video](https://www.loom.com/share/d82ea2d4c7dd4b63a60b06dcea2db556?sid=9046baa5-8f1f-4a52-b975-c27a429be697)
@@ -19,4 +19,4 @@
 
 {Make a list of websites that you found helpful in this project}
 * [Microsoft](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
-* [Microfost](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/)
+* [Microsoft](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/)
